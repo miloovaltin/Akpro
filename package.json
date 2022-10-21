@@ -1,16 +1,16 @@
 {
-"name": "Akpro",
-"theme": "Akpro",
-"version": "5.5.9",
-"description": "Akpro สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
-"keywords": [
-"Akpro",
-"Akpro เครดิตฟรี",
-"Akpro ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/Akpro",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "Akpro",
+  "theme": "Akpro",
+  "version": "5.6.0",
+  "description": "Akpro สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "Akpro",
+    "Akpro เครดิตฟรี",
+    "Akpro ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/Akpro",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
